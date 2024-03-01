@@ -1,7 +1,5 @@
 package boardgame;
 
-import java.security.PublicKey;
-
 public class Position {
 	
 	private int row;
